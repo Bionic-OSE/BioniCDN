@@ -1,5 +1,5 @@
 # Bionic's Nekobox package version information - (c) Bionic Butter
 
-$version = "2.3"
-$size = "381MB"
-$snum = "8"
+$version = "2.4"
+$size = "448MB"
+$snum = "9"
