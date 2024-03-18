@@ -2,5 +2,5 @@
 
 $version = "3.1"
 $updatetype = 1
-$size = "472MB"
+$size = "523KB (Update) - 472MB (Full install)"
 $snum = "10"
