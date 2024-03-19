@@ -1,6 +1,6 @@
 # Bionic's Nekobox package version information - (c) Bionic Butter
 
-$version = "3.2"
+$version = "3.3"
 $updatetype = 1
-$size = "523KB (Update) - 472MB (Full install)"
+$size = "524KB (Update) - 472MB (Full install)"
 $snum = "10"
