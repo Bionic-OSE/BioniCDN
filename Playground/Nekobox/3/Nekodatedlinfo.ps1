@@ -1,3 +1,3 @@
 # Bionic's Nekobox updater version information - (c) Bionic Butter
 
-$updater = "2.5a"
+$updater = "2.6"
