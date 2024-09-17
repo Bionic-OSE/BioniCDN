@@ -1,0 +1,1 @@
+// Just think of header files as .psm1 files of PowerShell. You've been there before, time to shove functions in.
