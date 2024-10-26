@@ -1,3 +1,3 @@
 # Suwako8utoPatch - Version information file for self-updating
 
-$updater = "1.0"
+$updater = "1.1"
