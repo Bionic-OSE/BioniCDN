@@ -2,5 +2,4 @@
 # (https://github.com/Bionic-OSE/BioniCDN/blob/main/Patchinfo/PIF-Hikaru3/BioniDKU%20OSXEv3/Servicinfo.ps1)
 
 $servicer = "6.0.3 (Luna I)"
-$tag = "201_osxev3"
-
+$tag = "202_osxev3"
